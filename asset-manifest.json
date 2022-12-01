@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/whildcrud/static/css/main.073c9b0a.css",
+    "main.js": "/whildcrud/static/js/main.f1f34110.js",
+    "static/js/787.92e69a18.chunk.js": "/whildcrud/static/js/787.92e69a18.chunk.js",
+    "static/media/logo.svg": "/whildcrud/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/whildcrud/index.html",
+    "main.073c9b0a.css.map": "/whildcrud/static/css/main.073c9b0a.css.map",
+    "main.f1f34110.js.map": "/whildcrud/static/js/main.f1f34110.js.map",
+    "787.92e69a18.chunk.js.map": "/whildcrud/static/js/787.92e69a18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f1f34110.js"
+  ]
+}
